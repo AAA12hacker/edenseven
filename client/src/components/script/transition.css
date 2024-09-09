@@ -1,0 +1,7 @@
+/* Add this in your styles.css or in a global CSS file */
+.transition-opacity {
+    transition: opacity 0.5s ease-in-out;
+}
+.transition-transform {
+    transition: transform 0.5s ease-in-out;
+}
